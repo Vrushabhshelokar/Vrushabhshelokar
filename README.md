@@ -4,11 +4,11 @@ Hey there! I'm Vrushabh — a passionate learner exploring the world of **Softwa
 
 🔧 Currently working on:
 - Java DSA and core programming concepts
-- Responsive To-Do List (HTML/CSS/JS)
-- Learning Git & GitHub to contribute to open-source projects
+- Official Sipna Coders Club, Official Sipna Vidyotan Tech Fest Website. 
+- Git & GitHub to contribute to open-source projects
 
 📌 Skills & Tools:
-`Java` `Python` `C` `HTML` `CSS` `JavaScript` `Git` `GitHub` `VS Code`
+`Java` `React` `Tailwind` `Python` `C` `HTML` `CSS` `JavaScript` `Git` `GitHub` `VS Code`
 
 💡 Goals:
 - Become proficient in full-stack development
